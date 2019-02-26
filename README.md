@@ -1,5 +1,5 @@
 # Yuv2RGB
-Converts the Yuv file to an RGB file and then sets it to image. c # project.
+Converts the Yuv file to an RGB file and then sets it to image. c desktop # project.
 
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
 
